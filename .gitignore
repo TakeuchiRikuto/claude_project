@@ -18,3 +18,5 @@ cmake_install.cmake
 **/ios/Pods/
 **/android/.gradle/
 **/android/local.properties
+.DS_Store
+**/.DS_Store
