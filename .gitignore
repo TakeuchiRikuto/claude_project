@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# CMake
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+cmake_install.cmake
+
+# Flutter/Dart
+**/build/
+/.dart_tool/
+/.flutter-plugins*
+.packages
+.pub-cache/
+
+# Android/iOS
+**/ios/Pods/
+**/android/.gradle/
+**/android/local.properties
